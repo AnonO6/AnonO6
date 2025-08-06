@@ -13,17 +13,16 @@
   </a>
 </div>
 
+## 🏆 Achievements
+<div align="center">
+  <img src="https://img.shields.io/badge/7x_Hackathon_Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=black" alt="7x Hackathon Winner"/>
+</div>
+
 <div align=center><img src="./metrics.plugin.accounts.svg"></div>
 
 ## 📈Statistics
 ### 🌇 Github
 <div align=center><img src="./metrics.plugin.isocalendar.fullyear.svg"></div>
-
-<div align="center">
-<span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=AnonO6&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&custom_title=GitHub%20Stats%20(2024)&show_all_commits=true&line_height=21" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonO6&layout=compact&langs_count=8&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&custom_title=Most%20Used%20Languages" />
-<span>&emsp;&emsp;</span>
-</div>
 
 ### 📊 Comprehensive GitHub Activity
 <div align="center">
