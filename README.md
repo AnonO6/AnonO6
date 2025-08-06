@@ -19,10 +19,20 @@
 <div align=center><img src="./metrics.plugin.accounts.svg"></div>
 
 ## 📈Statistics
-<div align=center><img src="./metrics.plugin.isocalendar.fullyear.svg"></div>
-
-### ⏰ Coding Habits
-<div align=center><img src="./metrics.plugin.habits.svg"></div>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>🌇 Contribution Calendar</h3>
+        <img src="./metrics.plugin.isocalendar.fullyear.svg" width="100%">
+      </td>
+      <td width="50%">
+        <h3>⏰ Coding Habits</h3>
+        <img src="./metrics.plugin.habits.svg" width="100%">
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnonO6&theme=tokyonight" alt="GitHub Profile Summary"/>
