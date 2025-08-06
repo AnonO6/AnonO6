@@ -41,7 +41,7 @@ jobs:
           user: AnonO6
           base: ""
           plugin_habits: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 300
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
