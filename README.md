@@ -21,6 +21,8 @@
 
 <div align="center">
 <span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=AnonO6" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonO6&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=AnonO6&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonO6&layout=compact&langs_count=8&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" />
 <span>&emsp;&emsp;</span>
 </div>
+
+
