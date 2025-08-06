@@ -19,10 +19,8 @@
 <div align=center><img src="./metrics.plugin.accounts.svg"></div>
 
 ## 📈Statistics
-### 🌇 GitHub Activity
 <div align=center><img src="./metrics.plugin.isocalendar.fullyear.svg"></div>
 
-### 📊 Comprehensive GitHub Activity  
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnonO6&theme=tokyonight" alt="GitHub Profile Summary"/>
 </div>
