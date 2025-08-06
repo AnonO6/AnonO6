@@ -24,7 +24,7 @@
 ### 🌇 GitHub Activity
 <div align=center><img src="./metrics.plugin.isocalendar.fullyear.svg"></div>
 
-### ⏰ Coding Habits
-<div align=center><img src="./metrics.plugin.habits.svg"></div>
+### 🐍 Snake Game
+<div align=center><img src="https://github.com/AnonO6/AnonO6/blob/output/github-contribution-grid-snake.svg"></div>
 
 
