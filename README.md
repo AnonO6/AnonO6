@@ -12,8 +12,6 @@
     <img src="https://img.shields.io/badge/Web3_Portfolio-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3 Portfolio"/>
   </a>
 </div>
-
-## 🏆 Achievements
 <div align="center">
   <img src="https://img.shields.io/badge/7x_Hackathon_Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=black" alt="7x Hackathon Winner"/>
 </div>
@@ -21,10 +19,6 @@
 <div align=center><img src="./metrics.plugin.accounts.svg"></div>
 
 ## 📈Statistics
-### 🌇 Github
-<div align=center><img src="./metrics.plugin.isocalendar.fullyear.svg"></div>
-
-### 📊 Comprehensive GitHub Activity
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnonO6&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak"/>
 </div>
