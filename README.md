@@ -21,6 +21,9 @@
 ## 📈Statistics
 <div align=center><img src="./metrics.plugin.isocalendar.fullyear.svg"></div>
 
+### ⏰ Coding Habits
+<div align=center><img src="./metrics.plugin.habits.svg"></div>
+
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnonO6&theme=tokyonight" alt="GitHub Profile Summary"/>
 </div>
