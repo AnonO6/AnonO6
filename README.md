@@ -21,8 +21,17 @@
 
 <div align="center">
 <span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=AnonO6&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonO6&layout=compact&langs_count=8&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=AnonO6&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&custom_title=GitHub%20Stats%20(2024)&show_all_commits=true&line_height=21" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonO6&layout=compact&langs_count=8&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&custom_title=Most%20Used%20Languages" />
 <span>&emsp;&emsp;</span>
+</div>
+
+### 📊 Comprehensive GitHub Activity
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnonO6&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnonO6&theme=tokyonight" alt="GitHub Profile Summary"/>
 </div>
 
 
