@@ -12,9 +12,6 @@
     <img src="https://img.shields.io/badge/Web3_Portfolio-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3 Portfolio"/>
   </a>
 </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/7x_Hackathon_Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=black" alt="7x Hackathon Winner"/>
-</div>
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnonO6&theme=tokyonight" alt="GitHub Profile Summary"/>
